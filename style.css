@@ -47,7 +47,7 @@ nav {
 }
 
 .hero {
-    background-image: url(./Assets/Background.jpg);
+    background-image: url(Background.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
